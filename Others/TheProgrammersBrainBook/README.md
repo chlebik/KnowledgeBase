@@ -1,4 +1,4 @@
-# The Prgrammer's Brain by Felienne Hermans
+# The Programmer's Brain by Felienne Hermans
 
 ## Part 1 - On reading code better
 
