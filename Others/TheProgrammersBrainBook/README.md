@@ -50,6 +50,48 @@ overthought typologies, which have no real value to me.
 
 ### Chapter 6 - Getting better at solving programming problems
 
+In general the outcome of the chapter is that we're using mental models when dealing with software. Humans can store 
+different models of one thing simultaneously. Therefore, it's possible, to mix them and loose the overall 
+understanding of a thing.
+
+### Chapter 7 - Misconceptions: bugs in thinking
+
+Knowledge transfer between existing models in memory and new ones, can have two outcomes:
+* **positive transfer** - when existing model helps to understand/create new one (for loop)
+* **negative transfer** - when existing model actually prevents us from understanding new things (checked exceptions 
+  in Java vs exceptions in C#)
+
+Preventing misconceptions when learning new language:
+* keep an open mind
+* study common misconceptions
+* ask for advice of experienced programmers
 
 
+## Part 3 - On writing better code
 
+### Chapter 8 - How to get better at naming things
+
+General conclusion is that naming is hard ;)
+
+### Chapter 9 - Avoiding bad code and cognitive load: Two frameworks
+
+**Code smells** are causing high cognitive load. Depending on the type of code smell it can cause:
+* overloading the capacity of working memory
+* no possibility for effective chunking or chunking gone wrong (code clones)
+
+**Linguistic antipatterns** is a second framework - when casual language concepts in the code are not representing 
+what they say they do (eg. <em>isValid</em> does not hold a boolean but int). They cause increased cognitive load on 
+the developers.
+
+
+### Chapter 10 - Getting better at solving complex problems
+
+To get better at solving use one of two strategies:
+* internalization - make parts of common problems stored in LTM. The more you remember (from doing!) the easier it 
+  is to fetch this knowledge/skill.
+* worked examples - how other people solved specific problems
+
+The last type of cognitive load is **germane load**. It occurs when the *intrinsic* and *extraneous* loads are so high, 
+that there's no way we can move anything from working memory or STM to LTM. In that way we cannot actually **learn** (in 
+terms of remembering). That's why giving recipes for solutions when tackling problems are causing **germane load** 
+to decrease, and enable us to actually remember something.  
