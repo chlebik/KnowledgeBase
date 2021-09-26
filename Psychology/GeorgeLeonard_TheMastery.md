@@ -8,14 +8,14 @@ It's a ***process*** that never ends. And the growth towards mastery is done in 
 
 ### Chapter 2 - Meet the Dabbler, The Obsessive and The Hacker
 
-* Dabbler - First-class enthusiasm for new things, getting to know new environment, the excitement that
+* **Dabbler** - First-class enthusiasm for new things, getting to know new environment, the excitement that
   comes with it is overbearing. But then comes a fallout and plateau and Dabbler just gives up. ***Puer aeternus*** - 
   eternal child.
 
-* Obsessive - The main thing is reaching ***the goal***. Right now, at once, on the first try.
+* **Obsessive** - The main thing is reaching ***the goal***. Right now, at once, on the first try.
   When plateau comes he invests more and more energy and all other things to go further. 
 
-* Hacker - The main idea of the hacker is to stay on plateau forever. To get a
+* **Hacker** - The main idea of the hacker is to stay on plateau forever. To get a
   grip and go further - no way. No matter that he could do better, there's no way he is coming out of the comfort zone.
 
 The main takeout is - there's no way to be always one of them. Usually a person is a hacker here, dabbler there, a
