@@ -94,4 +94,54 @@ To get better at solving use one of two strategies:
 The last type of cognitive load is **germane load**. It occurs when the *intrinsic* and *extraneous* loads are so high, 
 that there's no way we can move anything from working memory or STM to LTM. In that way we cannot actually **learn** (in 
 terms of remembering). That's why giving recipes for solutions when tackling problems are causing **germane load** 
-to decrease, and enable us to actually remember something.  
+to decrease, and enable us to actually remember something.
+
+
+## Part 4 - On collaborating on code
+
+### Chapter 11 - The art of writing code
+
+Interruptions are a problem, and as studies suggest - there's LOTS of time wasted trying again to get into the zone 
+(which requires 'warm up'). There are three techniques that help with coming back after interruption:
+* **store your mental model** - when model you currently have in mind is stored externally (paper/code/etc), it's 
+  possible to skip 'warm up' phase
+* **help prospective memory** - write down what you were thinking that you had to do next
+* **label subgoals** - write down every small step that is needed to tackle the specific problem
+
+
+### Chapter 12 - Designing and improving larger systems
+
+**Cognitive dimensions of code bases** are design principles for codebase. They're used to evaluate the usability of 
+existing one, or be a heuristic for create new. Here are the dimensions used:
+* *error proneness* - strong types are better than dynamic types
+* *consistency*
+* *diffuseness* - how much the programming languages concepts take (in terms of space)
+* *hidden dependencies*
+* *provisionality* - how easy it is to think while using the tool
+* *viscosity* - how hard is to make changes into the system
+* *progressive evaluation* - how easy it is to execute partial code
+* *role expressiveness* - how easy is to see the role of a specific part of the code
+* *closeness of mapping* - how close the language/code is to the domain which problems it solves
+* *hard mental operations*
+* *secondary notation* - possibility to add extra meaning to code (eg. comments or named params)
+* *abstraction* - describes if the users of the system can create abstractions as powerful as built-in the language
+* *visibility* - how easy is to see other parts of the system
+
+
+### Chapter 13 - How to onboard new developers?
+
+> One of the reasons more-senior people often struggle with effectively teaching and
+explaining is the “curse of expertise.” Once you have mastered a certain skill sufficiently,
+you will inevitably forget how hard it was to learn that skill or knowledge. You will, therefore, overestimate how many new things a newcomer can process at the same time.
+
+[Neo-Piaget stages for development](https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development#Four_stages_of_development)
+<br/>
+[Dreyfuss model of skill acquisition](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+
+
+Advise how to make onboarding better:
+* limit/decrease cognitive load (describe the proper vocabulary to the newcomer)
+* limit tasks to one programming activity (transcription/exploration/comprehension/searching/incrementation)
+* support the memory of the onboardee
+* read code together
+
