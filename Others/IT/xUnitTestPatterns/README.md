@@ -73,7 +73,7 @@ How fixtures can be setup:
 * **inline setup** - everything is put inside the test method (possibly a lot of bloatware/repeated code is created)
 * **delegated setup** - we extract repeatable logic to separate utility methods with descriptive names.
 > When it is not important for something to be seen in the test method, it is important that it not be seen in the test method!
-* **implicit setup** - is a hook provided by the framework - eg. ```setUp()``` or methods in general annotated with 
+* **implicit setup** - is a hook provided by the framework - e.g. ```setUp()``` or methods in general annotated with 
 ```@BeforeTest``` or such.
 
 
@@ -96,24 +96,24 @@ Basics - know them already - discussing mostly **state verification** vs **behav
 
 
 Types of **indirect input/output**:
-* input - collaborator in the SUT returns a specific value that is an INPUT for the SUT (eg. predefined value or 
+* input - collaborator in the SUT returns a specific value that is an INPUT for the SUT (e.g. predefined value or 
   exception)
-* output - collaborator in the SUT **performs** some side effect, but not necessarily returns it (eg. logging/email 
+* output - collaborator in the SUT **performs** some side effect, but not necessarily returns it (e.g. logging/email 
   send)
 
 Two types of DOC behaviour verification:
-* Procedural - <em>test spy</em> records all the interactions, and assertions are executed against in the verify 
-  phase (eg. <em>Capture</em> in the Mockito)
+* Procedural - <em>test spy</em> records all the interactions, and assertions are executed against in the verification 
+  phase (e.g. <em>Capture</em> in the Mockito)
 * Expected behaviour - we register <em>mock object</em> in the SUT. During test execution calls made to it, are 
-  compared against predefined behaviours. When there's one that does not match with the existing ones test fails (eg.
-  <em>when..then</em> in Mockito)
+  compared against predefined behaviours. When there's one that does not match with the existing ones test fails (e.g.
+  <em>when…then</em> in Mockito)
 
 Types of <em>test doubles</em>:
 * **dummy object** - passed to the methods to meet the contract, but not actually used
 * **test stub** - object that replaces component in order to control **indirect inputs**. A more specialised one is 
   **test spy** that records the interactions
 * **mock object** - object used to control **indirect outputs** (lenient/strict)
-* **fake object** - replaces functionality of the collaborator with an alternate implementation (eg. in memory DB)
+* **fake object** - replaces functionality of the collaborator with an alternate implementation (e.g. in memory DB)
 
 > Finally, we want to be careful that we don't fall into the "new hammer trap." Overuse of Test Doubles (and 
 > especially Mock Objects or Test Stubs) can lead to Overspecified Software by encoding implementation-specific
@@ -143,11 +143,11 @@ Main issues with DB:
 
 If it is possible to avoid DB directly, we can consider two options:
 * use in-memory DB
-* use *DB Fake* (eg. code implementation of DB using maps). The biggest win here is that we can set up the state as a 
+* use *DB Fake* (e.g. code implementation of DB using maps). The biggest win here is that we can set up the state as a 
   fresh one with every test run.
 
 Direct testing of **stored procedures** can be done in two ways (ok, I know that it's 2022 and basing any 
-application logic on stored procedures is *passe*, but the book is quite old, so let's roll):
+application logic on stored procedures is *passé*, but the book is quite old, so let's roll):
 * we just call them directly using the framework/language that we write all other tests with
 * we use dedicated xUnit solution for the DB (I didn't know that such possibility even exist!)
 
@@ -172,7 +172,7 @@ but I won't go into details here. Instead, I'm just putting here a list of the r
   readable as possible.
 * **Conditional test logic** - test contains logic which does not need to be executed. It clutters the code, and 
   makes it harder to follow and maintain. Here a differentiation is needed - we are talking about execution logic 
-  here, not the infrastructure code of the test itself (eg. used for avoiding duplicates). 
+  here, not the infrastructure code of the test itself (e.g. used for avoiding duplicates). 
 * **Hard to test code** - it's simply the code, that suffers from bad architecture/design, and therefore testing it 
   is hard - usual culprits are **tight-coupling**, **asynchronous code** or **untestable test code** (meaning the 
   test code itself is hard to read and understand) 
@@ -200,8 +200,8 @@ but I won't go into details here. Instead, I'm just putting here a list of the r
   objects.  
 * **Manual intervention** - every time a test is run it requires a person doing something (before running or during 
   the process). I expect that for unit tests it will be hard to find such thing, but for integration/component tests 
-  I can imagine such scenarios without problems. In general the remedy here is automate, automate, automate, or 
-  mock/fake user-required behaviours.   
+  I can imagine such scenarios without problems. In general the remedy here is to automate, automate, automate, or 
+  mock/fake user-required behaviours.
 * **Slow tests** - self-explanatory. 
 
 
@@ -259,9 +259,9 @@ but I won't go into details here. Instead, I'm just putting here a list of the r
 
 #### SUT interaction strategy
 * **back door manipulation** - an example will be to verify the state of some 'under-the-hood' layer, instead the 
-  SUT itself, eg. DB. The problem here is that it's coupling low-level technical details to our tests, and what is 
+  SUT itself, e.g. DB. The problem here is that it's coupling low-level technical details to our tests, and what is 
   more - there must be an actual access using *back-door*. Although, it has its usages, when we want to confirm the 
-  state of underlying layer, if there are other collaborators using it (eg. besides our application operating 
+  state of underlying layer, if there are other collaborators using it (e.g. besides our application operating 
   on the DB, we have some BI tooling that uses it). Also, it can speed up the tests, by testing the underlying state 
   directly, rather than generate some robust and heavy report using SUT. 
 * **layer test** - name says all - we test only one layer to reach high coverage
@@ -369,7 +369,7 @@ couple of times!
   application failures.
 * **test spy** - it is actually a **test stub**, but with *recording functionality*. Its behavior is the same as for 
   **stub**, the difference is in how (or if at all) we deal with this object in the verification phase - it is used 
-  then to verify if our SUT used its spied-on collaborator in a valid/expected way (eg. with parameters of specified 
+  then to verify if our SUT used its spied-on collaborator in a valid/expected way (e.g. with parameters of specified 
   values). Although, what differentiates it from the **test mock**, is that it's the test method verification phase 
   knowledge/job, to check the constraints and to choose which ones we exercise.
 * **test mock** - this is actually the most misunderstood ones here. Due to the fact that we use term **mock** all 
