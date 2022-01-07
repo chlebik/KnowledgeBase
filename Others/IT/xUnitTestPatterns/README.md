@@ -416,3 +416,46 @@ The last type - not put in the above divisions - is **test-specific subclass**. 
 in order to expose some data/state verification functionalities. In the Java world it's very common to use 
 *package-private methods* for that, which are not part of the public API. In other languages we just use inheritance,
 to comply with the SUT interface, but we additionally expose data, we don't want exposed in the PRD-ready code. 
+
+
+### Chapter 24 - Test organisation patterns
+
+Chapter begins with a simple notion of **named test suite** - which contains different tests, but linked in some way.
+**Test suite** contains numerous **testcase objects**.
+
+#### Test code reuse
+* **test utility method** - as simple as it sounds - when we have some repetitive logic used in tests 
+  (utility/assertions/setup code) we just introduce **utility method**. 
+* **parameterized test** - self-explanatory 
+
+#### Testcase class structure
+* testcase class per class
+* testcase class per feature
+* testcase class per fixture
+
+#### Utility method location
+* testcase superclass
+* test helper
+
+
+### Chapter 25 - Database patterns
+
+* database sandbox
+* stored procedure test
+* table truncation teardown
+* transaction rollback teardown
+
+
+### Chapter 25 - Design-for-testability patterns
+
+* dependency injection
+* dependency lookup
+* humble object 
+* test hook
+
+# Chapter 26 - Value patterns
+
+* literal value
+* derived value
+* generated value
+* dummy object
