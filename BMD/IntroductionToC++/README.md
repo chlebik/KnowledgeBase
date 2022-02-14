@@ -2,6 +2,6 @@ This folder contains ANKI flashcards, that I've created while familiarizing myse
 the following sources:
 
 * *'Tour of C++'* by **Bjarne Stroustrup**
-* *'C++ Crash Course'* by **Josh Lospinoso**
+* *'C++ Crash Course'* by **Josh Lospinoso** (without the chapter 18 and all the next ones)
 * [Back to basis CPP Con 2020 playlist](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
 * Numerous videos on the <a href="https://www.youtube.com/user/CppCon/featured">CPP Con Youtube channel</a>
