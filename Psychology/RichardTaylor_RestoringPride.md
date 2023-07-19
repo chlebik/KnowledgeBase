@@ -85,7 +85,7 @@ raw quotes below - that's why I'm putting this warning here - we're not reading 
 > for example, save the life, health, or fortune of some deserving person through your own strength and wit - then 
 > the deed is done, and you know it, without needing praise. You already have your reward. And the beauty of your 
 > deed is not that someone was rescued from disaster, no matter how overwhelmingly important that may be to others. 
-> Its beauty lies in the strength and with that you displayed, and that is *your* blessing.
+> Its beauty lies in the strength and wit that you displayed, and that is *your* blessing.
 
 
 >   Personal excellence, therefore, requires no recognition, no authentication by others. More than this, it need not 
