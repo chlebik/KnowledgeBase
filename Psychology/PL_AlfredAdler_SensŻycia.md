@@ -19,7 +19,7 @@ s. 79
 
 > Któż mógłby poważnie powątpiewać o tym, że jednostce ludzkiej, tak po macoszemu wyposażonej przez naturę, zostało jako błogosławieństwo przydane silne poczucie niższości, prące do sytuacji plusowej, do bezpieczeństwa i podboju? A ten ogromny, przymusowy bunt przeciw tkwiącemu w niej poczuciu niższości, jako podstawie rozwoju ludzkości, wciąż się od nowa rozbudza i powtarza w każdym niemowlęciu i dziecku.
 > 
-> Dziecko, o ile nie jest zbyt upośledzone, [...], pozostaje już pod przymusem tego rozwoju wzwyż, pobudzającym jego ciało i duszę do wzrostu. Jemu również przepisała natura dążenie ku przezwyciężeni. Jego małość, słabość, brak samoistnie stworzonych zadowoleń, mniejsze i większe zaniedbania - wszystko to jest indywidualną podnietą do rozwoju jego sił.
+> Dziecko, o ile nie jest zbyt upośledzone, [...], pozostaje już pod przymusem tego rozwoju wzwyż, pobudzającym jego ciało i duszę do wzrostu. Jemu również przepisała natura dążenie ku przezwyciężeniu. Jego małość, słabość, brak samoistnie stworzonych zadowoleń, mniejsze i większe zaniedbania - wszystko to jest indywidualną podnietą do rozwoju jego sił.
 > s. 101-102
 
 > Przystosowanie się dziecka do otoczenia na miarę jego możliwości jest jego pierwszym aktem twórczym, do którego prze go poczucie niższości. To przystosowanie się, w każdym przypadku odmienne, jest ruchem, który ujmuje ostatecznie jako kształt, jako ruch zakrzepły, jako formę życia zdającą się przyrzekać cel bezpieczeństwa i zwycięstwa. Granice, w obrębie których dokonywa się ten rozwój, są ogólnie ludzkie, dane przez stan ewolucji gatunku i jednostki.
