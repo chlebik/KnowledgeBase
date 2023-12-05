@@ -34,29 +34,29 @@ Embrace plateau. Feel it. Live it.
 
 ## Part 2 - Five master keys
 
-### Chapter 5 - Key 1 Instruction
+### Chapter 5 - Key 1 - Instruction
 
 To sum up - find a teacher/mentor/guru. Do not reinvent the wheel.
 
-### Chapter 6 - Key 2 Practice
+### Chapter 6 - Key 2 - Practice
 
 Practice in this chapter is not about a verb. It's about the noun - which should be translated as 'the road' we follow.
 Practice not primarily to achieve goal. Practice for the sake of practicing, to keep You focused and concentrated. 
 Of course don't hack - don't practice ONLY for the sake of practice if there's no progress in any direction.
 **Practice is the path of mastery!**
 
-### Chapter 7 - Key 3 Surrender
+### Chapter 7 - Key 3 - Surrender
 
 Trust the teacher but also surrender to the obvious, repetition-like trivialities. **Satisfaction lies in mindful
 repetition, the discovery of endless richness in subtle variations on familiar themes**. What is more important - when the
 time comes - surrender whatever You know or can do. Sometimes in order to go along the way of mastery is to go back 
 a little. 
 
-### Chapter 8 - Key 4 Intentionality
+### Chapter 8 - Key 4 - Intentionality
 
 Picture what You are doing when not doing it. 
 
-### Chapter 9 - Key 5 The edge
+### Chapter 9 - Key 5 - The edge
 
 Be prepared to walk the edge and also to cross it sometimes. Without it the path would be boring and inhumane.
 
