@@ -1,8 +1,47 @@
-> Pasja to przerost formy nad treścią. Cel to sama treść. Najważniejsza praca, jaką należy wykonać, wymaga rozsądku i rozwagi.
+> Zrozumiałem, że napęd i przymus, które pozwoliły mi tak szybko odnieść sukces, mają swoją cenę, zapłaconą też przez wielu innych. Ważna była nie tyle ilość pracy, ile jej przesadne znaczenie w mojej wizji siebie. Byłem tak beznadziejnie uwięziony we własnej głowie, że stałem się niewolnikiem własnych myśli. Efektem było błędne koło bólu i frustracji. Musiałem odkryć, dlaczego tak się stało — jeśli chciałem uniknąć równie tragicznego załamania.
+
+> Niezależnie od tego, w jakim miejscu się znajdujesz i co robisz, Twój najgorszy wróg znajduje się w Tobie. Jest nim Twoje ego.
+
+> Po wyeliminowaniu ego zostaje nam to, co prawdziwe. Zamiast ego pojawia się skromność. Jest to jednak twarda skromność połączona z pewnością siebie. Podczas gdy ego jest sztuczne, tego rodzaju pewność siebie zapewnia odporność. Ego jest przywłaszczane, na pewność siebie trzeba zapracować. Ego jest samozwańcze, a wynikająca z niego duma jest sztuczna. Ego oszukuje, pewność siebie przygotowuje na trudności. To jak różnica między trucizną a skutecznym lekiem.
+
+> Milczenie jest wytchnieniem dla silnych i pewnych siebie.
+
+> Twórcy cichutko pracują w kącie. Przekształcają wewnętrzne poruszenie w produkt i ostatecznie w wyciszenie. Ignorują impuls szukania uznania przed rozpoczęciem działania. Nie mówią dużo i nie przejmują się tym, że inni, pokazujący się publicznie i cieszący się zainteresowaniem, na pozór wychodzą na tym lepiej (w rzeczywistości nie wychodzą). Są zanadto zajęci pracą, aby robić cokolwiek innego. Gdy już mówią, robią to, ponieważ na to zasłużyli.
+
+> Nie lubimy przyznawać, że ktoś jest od nas lepszy. Niechętnie uznajemy też, że mamy wiele do nauczenia się. Chcemy być kompletni. Chcemy być gotowi. Jesteśmy zajęci i przeciążeni. Dlatego godzenie się z nową, niższą oceną własnych talentów to jedna z najtrudniejszych rzeczy w życiu, ale prawie zawsze okazuje się ona niezbędna do osiągnięcia mistrzowskiego poziomu. Udawanie mądrości to jedna z najbardziej niebezpiecznych wad, ponieważ uniemożliwia rozwój. Lekarstwem na to jest rzetelna samoocena.
+
+> Pasja to przerost formy nad treścią. Cel to sama treść.
+>
+> Najważniejsza praca, jaką należy wykonać, wymaga rozsądku i rozwagi. Nie pasji. Nie naiwności.
+>
+> Byłoby znacznie lepiej, gdybyś czuł się onieśmielony tym, co Cię czeka. Pokorny w obliczu ogromu wyzwania i mimo to zdeterminowany, by sobie z nim poradzić. Pasję pozostaw amatorom. Niech ważne będzie poczucie tego, co musisz zrobić i powiedzieć, a nie to, czym się interesujesz i jaki chcesz być. Zapamiętaj epigramat Talleyranda skierowany do dyplomatów: Surtout, pas trop de zèle („Przede wszystkim nie bądźcie nadgorliwi”). Wtedy dokonasz wielkich rzeczy. Wtedy przestaniesz być dawnym sobą — pełnym dobrych intencji, ale nieskutecznym.
+
+> Na tym właśnie polega strategia płótna — na pomaganiu sobie poprzez pomoc innym. Na konsekwentnym odkładaniu krótkoterminowej gratyfikacji na rzecz długoterminowych zysków. Podczas gdy wszyscy inni pragną uznania i szacunku, Ty możesz to ignorować. Możesz zapomnieć o tym w takim stopniu, że będziesz zadowolony, gdy inni zyskają uznanie zamiast Ciebie. W końcu taki był Twój cel. Niech inni zdobywają pochwały na kredyt, podczas gdy Ty odłożysz to na później i będziesz czerpał odsetki od kapitału.
+
+> Człowiek, który przez cały czas myśli, nie ma nad czym się zastanawiać, jak tylko nad myślami. Dlatego traci kontakt z rzeczywistością i żyje w świecie iluzji.
+
+> Nawet jako dorośli jesteśmy narażeni na takie myśli w trakcie niewinnego spaceru ulicą. Zakładamy słuchawki i nagle czujemy się jak w teledysku. Podnosimy kołnierz kurtki i przez chwilę wyobrażamy sobie, jak świetnie musimy wyglądać. Odtwarzamy w głowie udane spotkanie, na które dopiero się udajemy. Tłumy rozstępują się, gdy idziemy. Jesteśmy nieustraszonymi wojownikami w drodze na szczyt.
+
+> To jak czołówka w filmie. To jak scena w powieści. Jest nam dobrze — o wiele lepiej niż z poczuciem wątpliwości, lęku, normalności. Dlatego pozostajemy w naszych głowach zamiast uczestniczyć w otaczającym nas świecie.
+> 
+> To właśnie ego, kochany.
+
+> Musimy wystrzegać się nieokiełznanej pewności siebie i obsesji na własnym punkcie. „Pierwszym owocem samoświadomości jest pokora” — powiedziała kiedyś Flannery O’Connor. Dobrze poznając samych siebie, możemy zwalczyć ego.
+
+> Możesz się okłamywać, mówiąc, że poświęcasz na coś czas. Możesz udawać, że pracujesz. Jednak ostatecznie spotkasz się z innymi. Zostaniesz sprawdzony i zapewne zdemaskowany.
+
+> Za każdym razem, gdy zasiadasz do pracy, przypominaj sobie: robiąc to, odraczam gratyfikację. Przechodzę „test pianki”. Zarabiam na to, czego pragnie moja ambicja. Inwestuję w siebie zamiast w ego. Możesz pochwalić samego siebie za dokonanie tego wyboru, ale nie przesadzaj z tym, ponieważ musisz wrócić do czekających na Ciebie zadań: praktyki, pracy, doskonalenia się.
+> 
+> Praca polega na tym, by samotnie wyjść na bieżnię, gdy pogoda sprawia, że wszyscy zostają w domach. Praca to parcie naprzód mimo bólu oraz nieudanych pierwszych szkiców i prototypów. To ignorowanie wyrazów uznania kierowanych do innych oraz, co ważniejsze, ignorowanie pochwał, jakie Ty sam otrzymujesz. Ponieważ masz pracę do wykonania. Praca nie pragnie być dobra. Trzeba ją taką uczynić mimo przeciwności.
+> 
+> Jest też inne powiedzenie: fachowca poznasz po wiórach, jakie pozostawia. To prawda. Aby właściwie ocenić swoje postępy, wystarczy rozejrzeć się po podłodze.
+
+
+> Naprawdę ambitnym wyzwaniem jest oczywiście zmierzenie się z rzeczywistością i — mimo odciągających spraw — kontynuowanie pracy ze spokojną pewnością siebie. Pozostaw innym korzystanie z kul. Czeka Cię samotna walka o to, by być prawdziwym, by móc powiedzieć: „Nie zamierzam odpuszczać”, by móc stwierdzić: „Zamierzam być sobą, swoją najlepszą wersją. Jestem w tym na długi czas niezależnie od tego, jakie trudności mnie czekają”. Walka, aby czegoś dokonać, zamiast być kimś.
+
 
 > Na tej drodze ważne jest nie to, „kim chcę w życiu zostać”, ale „czego chcę w życiu dokonać”. To podejście wymaga odrzucenia samolubnych interesów i zadania sobie pytań: Jakiemu powołaniu to służy? Jakie zasady rządzą moimi wyborami? Czy chcę być taki jak wszyscy inni, czy wolę dokonać czegoś innego?
 
-> Jest też inne powiedzenie: fachowca poznasz po wiórach, jakie pozostawia. To prawda. Aby właściwie ocenić swoje postępy, wystarczy rozejrzeć się po podłodze.
 
 > Według Seneki często powinniśmy zastanawiać się nad sensem greckiego słowa euthymia. Związane jest ono ze zrozumieniem własnej drogi i tego, jak na niej pozostać bez rozpraszania się opiniami innych, z którymi się na niej mijamy. Oznacza to, że pokonanie innych nie jest ważne. Nie jest też istotne, by mieć więcej od innych. Liczy się pozostawanie sobą i bycie w tym jak najlepszym bez ulegania sprawom, które Cię od tego odciągają. Ważne jest, by zmierzać w kierunku, w którym wyruszyłeś. Dokonanie jak najwięcej w obszarze, który wybrałeś. To wszystko — ani więcej, ani mniej. Przy okazji — słowo euthymia po polsku oznacza „spokój”.
 
