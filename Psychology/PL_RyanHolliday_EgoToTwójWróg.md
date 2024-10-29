@@ -54,3 +54,15 @@
 > Duris dura franguntur (z łac. twarde rzeczy można złamać twardymi rzeczami). Im większe ego, tym twardszy upadek.
 
 > Rozmyślanie nad tym, co się udało i jak wspaniali jesteśmy, nigdzie nas nie doprowadzi; co najwyżej skończymy w miejscu, w którym już się znajdujemy. Chcemy jednak pójść dalej, chcemy czegoś więcej, chcemy stale się doskonalić. Ego to uniemożliwia, dlatego powinniśmy je sobie podporządkować i złamać za pomocą coraz wyższych standardów. Celem nie jest wynikająca z chciwości nieustanna pogoń za „czymś więcej”, lecz stopniowe doskonalenie się oparte w większym stopniu na dyscyplinie niż na chwilowej dyspozycji.
+
+> Sukces upaja, natomiast do podtrzymania go potrzebna jest trzeźwość umysłu. Nie możesz nauczyć się czegoś nowego, jeśli uważasz, że wszystko już wiesz. Nie powinieneś też wierzyć w mity, jakie sam wymyślasz, ani w szum i hałas świata zewnętrznego. Musisz zrozumieć, że jesteś małą cząstką pełnego powiązań wszechświata. Ponadto powinieneś zbudować schemat i system postępowania skupiony na pracy, a nie na Tobie.
+
+> To najwyraźniej typowe — nigdy nie jesteśmy zadowoleni z tego, co sami mamy. Dodatkowo pragniemy tego, co mają inni. Chcemy mieć więcej niż ktokolwiek inny. Zaczynamy ze świadomością tego, co jest dla nas ważne, jednak gdy już to osiągniemy, zapominamy o priorytetach. Ego zaczyna nami rządzić i może doprowadzić nas do ruiny.
+
+> Tylko Ty wiesz, w jakim wyścigu uczestniczysz — ale tylko wtedy, jeśli Twoje ego nie zdecyduje, że Twoja wartość zależy od bycia lepszym i posiadania więcej niż ktokolwiek gdziekolwiek. Każdy z nas ma wyjątkowy potencjał i cel. To oznacza, że tylko Ty możesz ustalać zasady i oceniać wyniki w swoim życiu. Jednak zbyt często oglądamy się na innych ludzi i standard, jaki musimy spełnić, wyznaczamy na podstawie ich aprobaty. W efekcie marnujemy nasz potencjał i nasze przeznaczenie.
+
+> Ego wymaga zaszczytów, aby potwierdzić swoją wartość. Natomiast pewność siebie pozwala czekać i skupić się na aktualnym zadaniu niezależnie od zewnętrznego uznania.
+
+> Zwykle wydaje nam się, że ludzie odnieśli sukces dzięki energii i entuzjazmowi. Niemal usprawiedliwiamy ego, ponieważ sądzimy, że jest ono częścią osobowości potrzebną do „dokonania czegoś wielkiego”. Możliwe, że osiągnąłeś swoją pozycję dzięki odpowiedniej dozie determinacji. Zastanów się jednak, czy przetrwa ona przez następnych kilkadziesiąt lat. Czy naprawdę potrafisz stale wyprzedzać innych i pracować ciężej niż oni?
+>
+> Odpowiedź brzmi: nie. Ego mówi nam, że jesteśmy niepokonani, że mamy nieograniczone siły, które nigdy się nie wyczerpią. Jednak nieskończona energia nie może być warunkiem niezbędnym do osiągnięcia wielkości.
