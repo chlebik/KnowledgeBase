@@ -66,3 +66,14 @@
 > Zwykle wydaje nam się, że ludzie odnieśli sukces dzięki energii i entuzjazmowi. Niemal usprawiedliwiamy ego, ponieważ sądzimy, że jest ono częścią osobowości potrzebną do „dokonania czegoś wielkiego”. Możliwe, że osiągnąłeś swoją pozycję dzięki odpowiedniej dozie determinacji. Zastanów się jednak, czy przetrwa ona przez następnych kilkadziesiąt lat. Czy naprawdę potrafisz stale wyprzedzać innych i pracować ciężej niż oni?
 >
 > Odpowiedź brzmi: nie. Ego mówi nam, że jesteśmy niepokonani, że mamy nieograniczone siły, które nigdy się nie wyczerpią. Jednak nieskończona energia nie może być warunkiem niezbędnym do osiągnięcia wielkości.
+
+> Będziesz niedoceniany, Twoje plany zostaną storpedowane, doświadczysz zaskakujących niepowodzeń, Twoje oczekiwania nie zostaną spełnione, poniesiesz porażkę, przegrasz.
+> 
+> Jak postąpisz w takich sytuacjach? W czym odnajdziesz dumę z siebie i swojej pracy? Oto, co John Wooden radzi swoim graczom: zmieńcie definicję sukcesu. „Sukces to spokój umysłu, wynikający bezpośrednio z zadowolenia z siebie, gdy wiesz, że dołożyłeś starań, aby z całych sił próbować stać się najlepszym, jakim możesz być”. „Ambicja — przypominał sobie Marek Aureliusz — oznacza powiązanie swojego dobrostanu z tym, co mówią lub robią inni […] Rozsądek polega na powiązaniu go z własnymi poczynaniami”.
+> 
+> Wykonuj swoją pracę. Rób to dobrze. Potem odpuść i pozwól działać Bogu. To wszystko, czego potrzebujesz. Uznanie i nagrody to tylko dodatki. Odrzucenie zależy od innych, nie od nas.
+
+
+> Wielebny William A. Sutton ok. 120 lat temu zaobserwował, że „możemy spokornieć wyłącznie, przechodząc przez upokorzenie”. Znacznie lepiej byłoby oszczędzić sobie takich doświadczeń, jednak czasem są one jedynym sposobem na to, byśmy przejrzeli na oczy.
+
+> Każdy może wygrać, jednak nie każdy potrafi stać się najlepszą możliwą wersją siebie.
